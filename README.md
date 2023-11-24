@@ -1,6 +1,4 @@
 # Recipe Planner
-This web app was built during the Technica hackathon.
-
 ## Home Page
 ![Home Page](./images/Homepage.png?)
 
